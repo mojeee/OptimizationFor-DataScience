@@ -8,14 +8,6 @@ Version 1.0
 ##### Optimization for Data Science
 ###### Data : 11/5/2022
 
-Abstract
--------------------------
-
-
-
-
-
-For each record, it is provided:
 
 Files
 -------------------------
