@@ -1,7 +1,9 @@
 Optimization for Data Science Course project and HW
 ==================================================================
-### HW Topic: Comparing GD (Gradient Decent), RBCGD (Randomized Block Coordinate Decent), CBCGD (Cyclic Block Coordinate Decent) for a Semi-supervised Problem
-### Project Topic: Comparing SFW (Stochastic Frank-Wolfe), MSFW (Momentum Stochastic Frank-Wolfe), SVRF (Stochastic Variance Reduced Frank-Wolfe) for a Neural Network
+### HW Topic: 
+#### Comparing GD (Gradient Decent), RBCGD (Randomized Block Coordinate Decent), CBCGD (Cyclic Block Coordinate Decent) for a Semi-supervised Problem
+### Project Topic: 
+#### Comparing SFW (Stochastic Frank-Wolfe), MSFW (Momentum Stochastic Frank-Wolfe), SVRF (Stochastic Variance Reduced Frank-Wolfe) for a Neural Network
 #### Authors: Mojtaba Amini, Kamile Dementaviciute, Saeed Soufeh ####
 #### Email: Mojtaba.amini.1995@gmail.com ####
 #### Supervisor: Francesco Rinaldi 
@@ -22,9 +24,7 @@ HW/FinalReport.pdf | Final report of HW1
 HW/FinalReport.zip | LaTex file of HW1's report
 Project/Funct.py  | All necessay functions
 Project/Project.ipynb | The jupyter notebook for Project
- | 
- | 
-  | 
+
 
 
 
